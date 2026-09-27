@@ -1,0 +1,19 @@
+Guest User
+    |
+Checkout
+    |
+Payment Method Select
+    |
+    ├── COD
+    │      |
+    │      └── Create Order Directly
+    │
+    └── ONLINE
+           |
+           ├── Create Razorpay Order
+           |
+           ├── User Payment
+           |
+           ├── Verify Signature
+           |
+           └── Create Order
